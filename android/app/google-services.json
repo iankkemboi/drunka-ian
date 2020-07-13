@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860574929015",
+    "firebase_url": "https://kenya50-d177b.firebaseio.com",
+    "project_id": "kenya50-d177b",
+    "storage_bucket": "kenya50-d177b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860574929015:android:23cafd6d48f1f897fe7672",
+        "android_client_info": {
+          "package_name": "com.nfs.mktowett.drunka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860574929015-rf4u2rgjm93lkbvapq87km95ata5800e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKFf2R4QIjhMIbgBrgCwc9RJE94t8lq8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860574929015-rf4u2rgjm93lkbvapq87km95ata5800e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860574929015-e6migh1u967th7m2i0hcanjp074rlf5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nfs.mktowett.kegames"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
